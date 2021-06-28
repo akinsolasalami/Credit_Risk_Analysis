@@ -11,36 +11,36 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 ### Naive Random Oversampling
-![naive_random_oversampling](Resoures/naive_random_oversampling.png "naive_random_oversampling")
+![naive_random_oversampling](Resources/naive_random_oversampling.png "naive_random_oversampling")
 
 
 * __Accuracy Score: 68%__
 
 
 ### Smote Oversampling
-![smote_oversampling](Resoures/smote_oversampling.png "smote_oversampling")
+![smote_oversampling](Resources/smote_oversampling.png "smote_oversampling")
 
 
 * __Accuracy Score: 62%__
 
 ### Undersampling
-![undersampling](Resoures/undersampling.png "undersampling")
+![undersampling](Resources/undersampling.png "undersampling")
 
 
 * __Accuracy Score: 51%__
 
 ### Combination
-![combination](Resoures/combination.png "combination")
+![combination](Resources/combination.png "combination")
 
 * __Accuracy Score: 65%__
 
 ### Balanced Random Forest Classifier
-![random_forest_classifier](Resoures/random_forest_classifier.png "random_forest_classifier")
+![random_forest_classifier](Resources/random_forest_classifier.png "random_forest_classifier")
 
 * __Accuracy Score: 87%__
 
 ### Easy Ensemble AdaBoost Classifier
-![easy_ensemble_classifier](Resoures/easy_ensemble_classifier.png "easy_ensemble_classifier")
+![easy_ensemble_classifier](Resources/easy_ensemble_classifier.png "easy_ensemble_classifier")
 
 * __Accuracy Score: 94%__
 
